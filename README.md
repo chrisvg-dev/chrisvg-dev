@@ -9,6 +9,16 @@
         src="https://komarev.com/ghpvc/?username=chrisvg-dev&label=Profile%20views&color=0e75b6&style=flat"
         alt="chrisvg-dev" /> </p>
 
+- 🔭 I’m currently working on **CA Systems S.A**
+
+- 🌱 I’m currently learning **Terraform, Ansible**
+
+- 👨‍💻 All of my projects are available at [https://cristhianvg.dev](https://cristhianvg.dev)
+
+- 💬 Ask me about **Java, Typescript and Angular**
+
+- 📫 How to reach me **cristianvg9692@gmail.com**
+
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 5px;" margin>
         <img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" />&nbsp;&nbsp;
@@ -19,15 +29,6 @@
             src="https://img.shields.io/twitter/follow/chrisvillegas92?logo=twitter&style=for-the-badge"
             alt="chrisvillegas92" /></a> &nbsp;&nbsp; </p>
 
-- 🔭 I’m currently working on **CA Systems S.A**
-
-- 🌱 I’m currently learning **Terraform, Ansible**
-
-- 👨‍💻 All of my projects are available at [https://cristhianvg.dev](https://cristhianvg.dev)
-
-- 💬 Ask me about **Java, Typescript and Angular**
-
-- 📫 How to reach me **cristianvg9692@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
