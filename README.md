@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristhian Villegas</h1>
 <h3 align="center">A passionate mexican full stack developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisvg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chrisvg-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" /></a> </p>
@@ -31,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisvg-dev&show_icons=true&locale=en&layout=compact" alt="chrisvg-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisvg-dev&show_icons=true&locale=en" alt="chrisvg-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisvg-dev&" alt="chrisvg-dev" /></p>
