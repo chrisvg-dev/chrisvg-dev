@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cristhian Villegas</h1>
 <h3 align="center">A passionate mexican full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" />
+<img align="center" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisvg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chrisvg-dev" /> </p>
 
