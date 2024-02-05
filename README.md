@@ -9,6 +9,8 @@
         src="https://komarev.com/ghpvc/?username=chrisvg-dev&label=Profile%20views&color=0e75b6&style=flat"
         alt="chrisvg-dev" /> </p>
 
+        <br><br><br>
+
 - 🔭 I’m currently working on **CA Systems S.A**
 
 - 🌱 I’m currently learning **Terraform, Ansible**
