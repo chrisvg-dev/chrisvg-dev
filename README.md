@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **cristianvg9692@gmail.com**
 
-<p align="left">
+<br><br><br><p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 5px;" margin>
         <img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" />&nbsp;&nbsp;
     </a> &nbsp;&nbsp;
