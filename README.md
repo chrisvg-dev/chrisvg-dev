@@ -5,8 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/chrisvillegas92" target="blank"><img src="https://img.shields.io/twitter/follow/chrisvillegas92?logo=twitter&style=for-the-badge" alt="chrisvillegas92" /></a> </p>
+
+- 🔭 I’m currently working on **CA Systems S.A**
+
+- 🌱 I’m currently learning **Terraform, Ansible**
+
+- 👨‍💻 All of my projects are available at [https://cristhianvg.dev](https://cristhianvg.dev)
+
+- 💬 Ask me about **Java, Typescript and Angular**
+
+- 📫 How to reach me **cristianvg9692@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/chrisvillegas92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrisvillegas92" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cristhianvg-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristhianvg-dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/cristhian-villegas-garcía" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cristhian-villegas-garcía" height="30" width="40" /></a>
+<a href="https://fb.com/crisvg1992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crisvg1992" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisvg-dev&show_icons=true&locale=en&layout=compact" alt="chrisvg-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisvg-dev&show_icons=true&locale=en" alt="chrisvg-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisvg-dev&" alt="chrisvg-dev" /></p>
