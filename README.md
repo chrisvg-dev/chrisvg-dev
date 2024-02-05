@@ -12,8 +12,8 @@
         alt="chrisvg-dev" /> </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 5px;" margin>
+        <img src="https://github-profile-trophy.vercel.app/?username=chrisvg-dev" alt="chrisvg-dev" />&nbsp;&nbsp;
     </a>
 </p>
 
