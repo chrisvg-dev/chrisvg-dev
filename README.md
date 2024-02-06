@@ -111,6 +111,7 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 <br><br>
+<h3 align="left">Statistics:</h3>
 <img width="450" align="center"
     src="https://github-readme-stats.vercel.app/api?username=chrisvg-dev&show_icons=true&locale=en"
     alt="chrisvg-dev" />
