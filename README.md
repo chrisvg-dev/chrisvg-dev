@@ -113,10 +113,10 @@
             width="40" height="40" /> </a> </p>
 
 <br><br>
-<p><img align="left"
+<p><img width="600" align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisvg-dev&show_icons=true&locale=en&layout=compact"
         alt="chrisvg-dev" /></p>
-
-<p>&nbsp;<img align="center"
+<br><br>
+<p>&nbsp;<img width="600" align="center"
         src="https://github-readme-stats.vercel.app/api?username=chrisvg-dev&show_icons=true&locale=en"
         alt="chrisvg-dev" /></p>
