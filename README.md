@@ -7,7 +7,10 @@
 <br>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=chrisvg-dev&label=Profile%20views&color=0e75b6&style=flat"
-        alt="chrisvg-dev" /> </p> <br><br><br><br>
+        alt="chrisvg-dev" /> </p> <br>
+<p align="left"> <a href="https://twitter.com/chrisvillegas92" target="blank"><img
+    src="https://img.shields.io/twitter/follow/chrisvillegas92?logo=twitter&style=for-the-badge"
+    alt="chrisvillegas92" /></a> </p><br><br><br>
 
 - 🔭 I’m currently working on **CA Systems S.A**
 
@@ -20,10 +23,6 @@
 - 📫 How to reach me **cristianvg9692@gmail.com**
 
 <br><br><br>
-
-<p align="left"> <a href="https://twitter.com/chrisvillegas92" target="blank"><img
-            src="https://img.shields.io/twitter/follow/chrisvillegas92?logo=twitter&style=for-the-badge"
-            alt="chrisvillegas92" /></a> &nbsp;&nbsp; </p>
 
 
 <h3 align="left">Connect with me:</h3>
