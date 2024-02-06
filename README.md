@@ -40,7 +40,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="crisvg1992" height="30" width="40" /></a>
 </p>
-<br><br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -110,12 +110,12 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<br><br>
+<br>
 <h3 align="left">Statistics:</h3>
 <img width="450" align="center"
     src="https://github-readme-stats.vercel.app/api?username=chrisvg-dev&show_icons=true&locale=en"
     alt="chrisvg-dev" />
-<br><br>
+<br>
 <img width="450" align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisvg-dev&show_icons=true&locale=en&layout=compact"
         alt="chrisvg-dev" />
